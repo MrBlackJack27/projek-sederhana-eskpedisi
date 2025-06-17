@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Main.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Model/LoginUser.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Service/LoginService.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/View/LoginView.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Controller/LoginController.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Model/Product.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Model/CartItem.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Model/Courier.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Model/PaymentMethod.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/Service/ShoppingService.java</file>
+            <file>file:/C:/Users/Jose/Documents/NetBeansProjects/projectShopMenu/src/projectShopMenu/View/ShoppingView.java</file>
+        </group>
+    </open-files>
+</project-private>
